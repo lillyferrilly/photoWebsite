@@ -1,0 +1,94 @@
+body {
+        font-family: 'Duru Sans', sans-serif;
+}
+
+#home div {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+nav table.buttons {
+        display: none;
+}
+
+table.center {
+        margin-left: auto;
+        margin-right: auto;
+}
+
+table.center tr td img {
+        border-radius: 15px;
+}
+
+table.center tr td:hover{
+        border-radius: 15px;
+}
+
+header {
+        text-align: center;
+        font-size: 13pt;
+        border-radius: 15px;
+        font-family: 'Parisienne', cursive;
+}
+
+a img.left {
+        float: left;
+        border-radius: 15px;
+        margin-right: 20px;
+        width: 30%;
+        height: auto;
+}
+
+table.data {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        border: 1px solid;
+        border-radius: 15px;
+}
+
+legend {
+        border: 1px solid;
+        border-radius: 15px;
+        padding: 6px;
+        font-weight: bold;
+}
+
+fieldset {
+        border: 1px solid;
+        border-radius: 15px;
+}
+
+input {
+        border-radius: 15px;
+        font-family: 'Duru Sans', sans-serif;
+}
+
+#lstFindMe {
+        border-radius: 15px;
+        font-family: 'Duru Sans', sans-serif;
+}
+
+textarea {
+        border-radius: 15px;
+        font-family: 'Duru Sans', sans-serif;
+        
+}
+
+footer {
+        display: none;
+}
+
+body div.all {
+        border-radius: 15px;
+        font-size: 12pt;
+}
+
+p.hide {
+        display: none;
+}
+
+h2 {
+        font-size: 12pt;
+}
